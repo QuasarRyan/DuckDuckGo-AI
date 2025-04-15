@@ -6,8 +6,8 @@ compatibility_flags = ["nodejs_compat"]
 ip = "127.0.0.1"
 
 [vars]
-API_KEY = ""
+API_KEY = "MzUEBLtiX180L0y04U1D5MfIfL67JklqtMiSybq9mxt5835vvvQQ6rldJ4EF2ryb"
 
 [[kv_namespaces]]
 binding = "CONVERSATIONS"
-id = "YOUR_KV_NAMESPACE_ID"
+id = "42d18326b4284fb9b6e566abbb39ef64"
